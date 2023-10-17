@@ -7,7 +7,7 @@
 /**
  * camerahacking
  */
-//% weight=100 color=#0fbc11 icon=""
+//% weight=100 color=#808080 icon="●"
 namespace camerahacking {
     /**
      * TODO: カメラをハッキングしジャミングする
