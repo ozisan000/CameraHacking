@@ -13,7 +13,7 @@ namespace camerahacking {
      * TODO: カメラをハッキングしジャミングする
      */
     //% block
-    export function CameraHack(ip: any) {
+    export function CameraHack(ip: string) {
         player.say(">>カメラジャミング開始.")
         loops.pause(1000)
         player.say(">>カメラジャミング開始..")
